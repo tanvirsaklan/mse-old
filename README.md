@@ -1,6 +1,6 @@
 ---
 
-# [Deprecated Codebase. New version has been written in Rust. [See new repository](https://github.com/tanvirsaklan/mse.git)]
+# [Deprecated Codebase. New version has been written in Rust. [See new repository](https://github.com/tanvirsaklan/matscihub.git)]
 
 ---
 
